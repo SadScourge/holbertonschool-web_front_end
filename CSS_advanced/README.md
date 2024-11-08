@@ -1,0 +1,1 @@
+This directory contain all my CSS exercises for Holberton School
